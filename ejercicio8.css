@@ -1,0 +1,16 @@
+.contenedor { 
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgb(177, 73, 73);
+}   
+.caja1 {
+    flex-grow: 1;
+}
+.caja2 {
+    flex-grow: 2;
+}
+.caja3 {
+    flex-grow: 1;
+}
